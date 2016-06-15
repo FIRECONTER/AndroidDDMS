@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("Life TIme", "create");
-
+        Log.d("All time","start");
 
 
 
