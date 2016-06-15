@@ -48,7 +48,7 @@ public class MainActivity extends ActionBarActivity {
     {
         super.onStart();
         Log.d("Life Time", "start");
-        Log.d("tag","hello");
+       // Log.d("tag","hello");
     }
     @Override
     protected void onPause()
